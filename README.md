@@ -19,3 +19,9 @@ This project demonstrates basic UDP and TCP server implementations in Python usi
 ```bash
 python tcp_server.py
 python tcp_client.py
+```
+**UDP:**
+```bash
+python udp_server.py
+python udp_client.py
+```
